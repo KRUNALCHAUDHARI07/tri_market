@@ -1,0 +1,10 @@
+.sellers{
+    display: flex;
+    margin-top: 10px;
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+p{
+    margin:'0';
+}
