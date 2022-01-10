@@ -1,0 +1,15 @@
+.otpMainPage{
+    text-align: center;
+    margin: 150px;
+    background-color: rgb(118, 118, 235);
+    width: 300px;
+    height: 300px;
+    padding-top: 100px;
+}
+.otpMainPage .submit{
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}

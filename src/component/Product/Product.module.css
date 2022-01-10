@@ -1,0 +1,17 @@
+.price{
+    font-weight: bold;
+    font-size: 20px;
+}
+.description{
+    font-size: 17px;
+    text-transform: inherit;
+}
+.imgList{
+    float: left;
+}
+.imgList img{
+    display: inline-block;
+}
+.productImg{
+    float: right;
+}

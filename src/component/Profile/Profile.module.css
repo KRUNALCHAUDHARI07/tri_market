@@ -1,0 +1,12 @@
+.profile{
+    text-align: center;
+}
+.profile img {
+    border: solid cadetblue 5px;
+    border-radius: 70%;
+    background-color: blueviolet;
+}
+.profile h2{
+    margin: 20px 10px;
+    color: blue;
+}

@@ -1,0 +1,15 @@
+.Login {
+  text-align: center;
+  margin: 50px;
+  border: solid;
+  padding: 5px;
+  background-color: silver;
+}
+.input input {
+    margin: 10px;
+  width: 100%;
+  border-radius: 10px;
+}
+.btn{
+    margin-top: 15px;
+}

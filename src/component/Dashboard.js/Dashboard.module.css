@@ -3,8 +3,8 @@
     margin-top: 10px;
     background-color: black;
     color: blanchedalmond;
-    
+    cursor: pointer;
 }
-p{
-    margin:'0';
+.banners{
+    background-color:blue;
 }

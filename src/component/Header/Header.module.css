@@ -18,3 +18,16 @@
     left: 10px;
     top: 6px;
 }
+.right{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    color: blanchedalmond;
+    cursor: pointer;
+}
+.right a{
+    text-decoration: none;
+}
+.right:hover{
+    background-color: rgb(27, 26, 26);
+}

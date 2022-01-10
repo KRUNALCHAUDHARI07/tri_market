@@ -1,7 +1,19 @@
-.footer{
-    padding: 25px 10px;
-    
+.footer {
+  padding: 25px 10px;
+  background-color: black;
+  color: blanchedalmond;
+  display: flex;
 }
-.links{
-    margin: 0px;
+.footer .btn {
+  display: inline;
+  padding: 0% 100%;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+.footer a{
+  text-decoration: none;
+}
+.footer .btn :hover {
+  font-weight: bold;
 }

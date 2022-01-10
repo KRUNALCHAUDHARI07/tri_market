@@ -1,0 +1,24 @@
+.product{
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    margin: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.product p{
+    margin: 0%;
+}
+.product .mrp{
+    text-decoration: line-through;
+}
+.product .selling{
+    font-weight: bold;
+}
+.cartHeader{
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    color: cornsilk;
+}
